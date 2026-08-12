@@ -6,14 +6,14 @@ int main() {
 	
 	int num;
 	
-	cout << "Digite um número: ";
+	cout << "Digite um nÃºmero: ";
 	cin >> num;
 	
 	if(num < 0){
-		cout << "Número negativo. " << endl;
+		cout << "NÃºmero negativo. " << endl;
 	}else if(num == 0){
-		cout << "Número = 0";
+		cout << "NÃºmero = 0";
 	}else{
-		cout << "Número positivo. " << endl;
+		cout << "NÃºmero positivo. " << endl;
 	}
 }
