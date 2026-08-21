@@ -7,13 +7,13 @@ int main() {
 	
 	int num;
 	
-	cout << "Digite um número: ";
+	cout << "Digite um nÃºmero: ";
 	cin >> num;
 	
 	if(num % 2 == 0){
-		cout << "Número par";
+		cout << "NÃºmero par";
 	}else{
-		cout << "Número impar";
+		cout << "NÃºmero impar";
 	}
 	
 	 	
