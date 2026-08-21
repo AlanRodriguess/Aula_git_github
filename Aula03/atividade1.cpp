@@ -16,11 +16,11 @@ int main() {
 	cin >> lado3;
 	
 	if(lado1 == lado2 == lado3){
-		cout << "Triângulo equilátero" << endl;
+		cout << "TriÃ¢ngulo equilÃ¡tero" << endl;
 	}else if(lado1 == lado2 || lado2 == lado3 || lado3 == lado1){
-		cout << "Triângulo isósceles" << endl;
+		cout << "TriÃ¢ngulo isÃ³sceles" << endl;
 	}else{
-		cout << "Triângulo escaleno" << endl;
+		cout << "TriÃ¢ngulo escaleno" << endl;
 	}
 	
 	 	
